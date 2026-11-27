@@ -1,4 +1,4 @@
-# 🎮 Adnan Same Shop
+# 🎮 Adnan Game Shop
 
 ### Online & Offline Game Shop – UI Design Project
 
